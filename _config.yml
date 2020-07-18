@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Frisco Template
+title: blog minhtuan
 url: "https://minhtuannn.github.io/"
 baseurl:
 #google_analytics_key:
@@ -10,20 +10,19 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: 
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: minhtuan
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
-
+    - https://github.com/minhtuannn
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Vietnam/Hanoi
 
 permalink: pretty
 
