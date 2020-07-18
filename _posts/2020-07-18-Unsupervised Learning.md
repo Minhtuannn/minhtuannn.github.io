@@ -3,7 +3,7 @@ title: Unsupervised Learning
 date: 2020-07-18
 description: Exploring the unsupervised learning work
 categories:
-  - unsupervised learning
+  - unsupervised-learning
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: minhtuan_lazy
 ---
